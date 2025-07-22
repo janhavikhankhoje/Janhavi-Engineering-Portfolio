@@ -1,0 +1,1 @@
+Hi! My name is Janhavi and I recently graduated from UT Austin with a degree in Biomedical Engineering. I focused on the instrumentation and imaging track which taught me a wide range of tools in hardware and software. The other 2 branches on my repository so far contain my temperature monitor and respiratory monitor. Please check them out!
