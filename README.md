@@ -1,0 +1,1 @@
+I created a respiratory monitor using an arduino nano, sensors, schmitt trigger, and actuators like haptic motors. The goal of this project was to create a wearable chest band that collects data on rib movement and alerts patients with sleep apnea if they have an unsafe pause in breathing. In this branch so far, I have uploaded the hierarchical circuit design schematic and PCB.
